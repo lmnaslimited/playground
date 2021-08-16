@@ -1,0 +1,8 @@
+
+frappe.ui.form.on('BOM', {
+	validate(frm) {
+	    //Update and overwrite operating cost only if Company defaults enabled
+	   
+		// your code here
+	}
+});
